@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Memorize
 //
-//  Created by Lance Rettberg (39119312) on 5/27/20.
-//  Copyright © 2020 Lance Rettberg (19663346). All rights reserved.
+//  Created by Lance Rettberg on 5/27/20.
+//  Copyright © 2020 Lance Rettberg. All rights reserved.
 //
 
 import UIKit
